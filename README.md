@@ -1,1 +1,1 @@
-# This is  walk through for a basic sequencing analysis pipeline using E-utils and the SRA toolkit
+# This is  walk through for a basic sequencing analysis pipelines. This Repository as Walkthrus  using E-utils and the SRA toolkit from the Linux command line as well as how to use various packages in R. Packages like DEXseq for differnetial expresion of transcripts as well as  Limma, Minifi and Bumphunter fro looking at Methylation data from the illumina 450. With the package Minifi you'll find conectivity to GEO as well as TCGA
